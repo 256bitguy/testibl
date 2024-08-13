@@ -1,0 +1,7 @@
+export const AUTH_REQUEST = "AUTH_REQUEST";
+export const LOGIN = "LOGIN";
+export const LOGOUT = "LOGOUT";
+export const AUTH_ERROR = "AUTH_ERROR";
+export const FORGOT_PASSWORD = "FORGOT_PASSWORD";
+export const CHANGE_PASSWORD = "CHANGE_PASSWORD";
+export const UPDATE_PROFILE_PIC_URL = "UPDATE_PROFILE_PIC_URL";
